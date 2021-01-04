@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/guilhermeivo/nlw2-proffy/blob/master/.github/logo.svg" alt"Proffy" title="Proffy" />
+  <img src="https://github.com/guilhermeivo/nlw2-proffy/blob/master/.github/logo.svg" alt="Proffy" title="Proffy" />
 </div>
 
 # :scroll: Sumário
