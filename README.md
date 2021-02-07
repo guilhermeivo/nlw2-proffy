@@ -8,8 +8,6 @@
 - [Como rodar o projeto](#construction_worker-como-rodar-o-projeto)
     - [Baixando o projeto](#computer-baixando-o-projeto)
     - [Configurando o projeto](#wrench-configurando-o-ambiente)
-        - [Windows](#windows)
-        - [Linux](#linux)
     - [Rodando o projeto](#computer-rodando-o-projeto)
         - [Web](#web)
         - [Server](#server)
@@ -39,7 +37,12 @@ $ git clone https://github.com/guilhermeivo/nlw2-proffy.git
 
 ### :wrench: Configurando o ambiente
 
-#### Windows
+</br>
+
+<details>
+    <summary><strong>Windows</strong></summary>
+
+</br>
 
 ##### Node e NPM
 - Recomenda utilizar o PowerShell executado no mode administrador.
@@ -86,7 +89,12 @@ $ git clone https://github.com/guilhermeivo/nlw2-proffy.git
     npm install expo-cli --global
     ```
 
-#### Linux
+</details>
+
+<details>
+    <summary><strong>Linux</strong></summary>
+
+</br>
 
 ##### Node e NPM
 
@@ -141,6 +149,8 @@ $ git clone https://github.com/guilhermeivo/nlw2-proffy.git
     ```bash
     npm install expo-cli --global
     ```
+
+</details>
 
 ### :computer: Rodando o projeto
 
